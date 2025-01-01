@@ -4,7 +4,10 @@ public class Main {
     public static void main(String[] args) {
 
 
+
         String s = "hello";
+
+        int x = 10;
         System.out.println("Hello");
         System.out.println("RAM");
     }
